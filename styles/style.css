@@ -300,7 +300,7 @@ body {
   white-space: nowrap;
   overflow: hidden;
   text-overflow: ellipsis;
-  max-width: 150px
+  max-width: 250px
 }
 
 :hover.tooltip::before {
